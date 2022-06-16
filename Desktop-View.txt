@@ -1,0 +1,204 @@
+<table
+      valign="0"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      style="display: grid; place-items: center"
+    >
+      <tr>
+        <td
+          style="
+            background-color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            justify-content: space-evenly;
+            padding: 50px;
+          "
+        >
+          <div style="display: flex; align-items: center;">
+            <img
+              style="width: 135px; padding-left: 20px"
+              src="Images/Frame 1.png"
+              alt=""
+            />
+            <h4 style="margin-right: 10px">VIEW PRODUCT</h4>
+            <h4 style="margin-right: 10px">CALL NOW</h4>
+            <h4 style="margin-right: 200px">LIVE CHAT</h4>
+          </div>
+          <div style="margin-top: -40px">
+            <img width="120px" src="Images/Frame 2.png" alt="" />
+            <p>
+              Windows 11 brings you <br />
+              closer to what you love
+            </p>
+            <a
+              href="/Mobile.html"
+              style="text-decoration: none; font-size: small; float: right"
+              >View in Mobile Browser</a
+            >
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td
+          style="
+            display: grid;
+            place-items: center;
+            background-color: rgb(253, 253, 253);
+          "
+        >
+          <a
+            href="/"
+            style="
+              display: inline-block;
+              color: #000;
+              text-decoration: none;
+              text-transform: uppercase;
+              background-color: #0f56b8;
+              color: rgb(255, 255, 255);
+              cursor: pointer;
+              padding: 12px 300px;
+              font-family: Arial, Helvetica, sans-serif;
+              margin-bottom: 25px;
+            "
+            >FREE SHOPPING ON EVERYTHING</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td style="background-color: white; display: grid; place-items: center; padding-bottom: 40px;"">
+          <img style="width: 800px" src="Images/Frame 3.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td style="background-color: white; display: grid; place-items: center; padding-bottom: 40px;">
+          <img style="width: 800px" src="Images/Frame 4.png" alt="" />
+        </td>
+      </tr>
+
+      <tr>
+        <td style="font-family: Arial, Helvetica, sans-serif; background-color: white">
+            <h2 style="display: grid; place-items: center">It's the right time for a tech refresh.</h2>
+        </td>
+      </tr>
+      <tr>
+        <td style="background-color: white; display: flex; justify-content: space-evenly; font-family: Arial, Helvetica, sans-serif;">
+            <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 45px; text-decoration: none; font-weight:700; color: #000;" href="/index.html">Shop PCs</a>
+            <a style="border: 2px solid rgb(0, 0, 0); padding: 13px 20px; text-decoration: none; font-weight:700; color: rgb(0, 0, 0);" href="/index.html">Shop Electronics</a>
+        </td>
+      </tr>
+
+        <tr style="display: flex; justify-content:space-evenly; font-family: Arial, Helvetica, sans-serif; background-color: white;align-items: center; padding-top: 20px;">
+            <td>
+                <img width="400px" src="Images/Frame 5.png" alt=""/>
+            </td>
+            <td style="padding-right: 80px;">
+                <h3>LAPTOP DEALS</h3>
+                <p style="padding-bottom: 10px; padding-top: -15px;">Save up to XX on <br/> Laptops and 2-in-1s.</p>
+                <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 45px; text-decoration: none; font-weight:700; color: #000;" href="/index.html">Shop Now</a>
+            </td>
+        </tr>
+        <tr style="display: flex; justify-content:space-evenly; font-family: Arial, Helvetica, sans-serif; background-color: white; align-items: center; padding-top: 60px; padding-bottom: 30px;">
+            <td>
+                <h3>DESKTOP DEALS</h3>
+                <p style="padding-bottom: 10px; padding-top: -15px;">Save up to XX on <br/> Laptops and 2-in-1s.</p>
+                <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 45px; text-decoration: none; font-weight:700; color: #000;" href="/index.html">Shop Now</a>
+            </td>
+            <td>
+                <img width="200px; height: 100px" src="Images/Frame 6.png" alt=""/>
+            </td>
+        </tr>
+
+        <tr style="background-color: white; font-family: Arial, Helvetica, sans-serif; display: flex; justify-content: center; padding-bottom: 40px;">
+            <td style="background-color: rgb(49, 106, 153); color: white; padding: 10px 40px 30px 40px;">
+                <p>Open your Dell Preferred Account today</p>
+                <p style="margin-bottom: 100px;">Pre-qualify for the tech you want now. It's <br/> quick and won't impact your credit score</p>
+                <a style="border: 2px solid rgb(253, 252, 252); padding: 13px 45px; text-decoration: none; font-weight:700; color:rgb(250, 250, 250); margin-left: 10%;" href="">Pre-Qualify Now</a>
+            </td>
+            <td style="background-color: rgb(155, 157, 159); color: white; padding: 10px 40px 30px 40px;">
+                <p>Open your Dell Preferred Account today</p>
+                <p style="margin-bottom: 100px;">Pre-qualify for the tech you want now. It's <br/> quick and won't impact your credit score</p>
+                <a style="border: 2px solid rgb(17, 17, 17); padding: 13px 45px; text-decoration: none; font-weight:700; color:rgb(0, 0, 0); margin-left: 20%;" href="">Learn More</a>
+            </td>
+        </tr>
+
+        <tr style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; display: flex; justify-content: center; padding-bottom: 40px;">
+            <td style="border-right: 1px solid gray; padding: 20px;">
+                <img style="width:120px; margin-left: 20%;" src="Images/Frame 7.png" alt="" />
+                <p style="text-align: left;">Securely works and stream from <br/> home with complete protection <br/> for your digital life.</p>
+                <a style="border: 2px solid rgb(17, 17, 17); padding: 5px 10px; text-decoration: none; font-weight:700; color:rgb(0, 0, 0); margin-left: 20%;" href="">Learn More</a>
+            </td>
+            <td style="border-right: 1px solid gray; padding: 20px;">
+                <img style="width:60px; margin-left: 30%;" src="Images/Customer.png" alt="" />
+                <p style="text-align: center;">Securely works and stream from <br/> home with complete protection <br/> for your digital life.</p>
+                <a style="border: 2px solid rgb(17, 17, 17); padding: 5px 10px; text-decoration: none; font-weight:700; color:rgb(0, 0, 0); margin-left: 20%;" href="">Shop Now</a>
+            </td>
+            <td style="padding: 20px;">
+                <img style="width:60px; margin-left: 30%;" src="Images/Frame 8.png" alt="" />
+                <p style="text-align: right;">Securely works and stream from <br/> home with complete protection <br/> for your digital life.</p>
+                <a style="border: 2px solid rgb(17, 17, 17); padding: 5px 10px; text-decoration: none; font-weight:700; color:rgb(0, 0, 0); margin-left: 20%;" href="">Learn More</a>
+            </td>
+        </tr>
+
+        <tr style="background-color: white; display: flex; justify-content: space-evenly; font-family: Arial, Helvetica, sans-serif;">
+           <td style=" padding-bottom: 60px;">
+            <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 75px; text-decoration: none; font-weight:700; color: #000; margin-right: -30px;" href="/index.html">Laptops</a>
+           </td>
+           <td style=" padding-bottom: 60px;">
+            <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 75px; text-decoration: none; font-weight:700; color: #000; margin-right: -30px;" href="/index.html">View Deals</a>
+           </td>
+           <td style=" padding-bottom: 60px;">
+            <a style="border: 2px solid rgb(4, 4, 4); padding: 13px 75px; text-decoration: none; font-weight:700; color: #000; margin-right: 20px;" href="/index.html">Desktops</a>
+           </td>
+        </tr>
+        <tr style="background-color: white; display: flex; justify-content: center; padding-bottom: 30px;">
+            <td>
+                <a href=""><img style="width: 40px; margin-right: 10px;" src="Images/Instagram.jpg" alt=""/></a>
+            </td>
+            <td>
+                <a href=""><img style="width: 40px; margin-right: 10px;" width="40px" src="Images/Twitter.png" alt=""/></a>
+            </td>
+            <td>
+                <a href=""><img style="width: 40px; margin-right: 10px;" width="40px" src="Images/facebook-logo-icon-vector-27990381.jpg" alt=""/></a>
+            </td>
+        </tr>
+       <table 
+       valign: "0"  
+       border="0"
+       cellpadding="0"
+       cellspacing="0"
+       style="display: grid; place-items: center; overflow: hidden;" >
+        <tr style="background-color: white; font-family: Arial, Helvetica, sans-serif;">
+            <td style=" display: flex;  justify-content:center; padding: 0px 260px;">
+               <div style="text-align: center; align-items: center; ">
+                <a style="text-decoration: none; color: #0f56b8;" href="">Manage Your Preference</a> | 
+               </div>
+                <div style="text-align: center; align-items: center; ">
+                    <a style="text-decoration: none; color: #0f56b8;" href="">Unsubscribe</a> |
+                </div>
+               <div style="text-align: center; align-items: center;">
+                <a style="text-decoration: none; color: #0f56b8; " href="">Privacy Statement</a>
+               </div> 
+            </td>
+        </tr>
+     
+        <tr style="background-color: white; font-family: Arial, Helvetica, sans-serif;">
+            <td style="padding: 0px 130px">
+                <p style="text-align: center; padding-bottom: 40px;">Dell Technologies Global Headquarters is located at One Dell Way. Round Rock, TX 78682</p>
+            </td>
+        </tr>
+    
+       <table style="display: grid; place-items: center">
+        <tr>
+          <td style="background-color: white; font-family: Arial, Helvetica, sans-serif; text-align: justify; padding: 0px 37px;">
+              <p>Offers available only in canada for specified time period. Savings calculated on regular price offered by Dell. prices do not <br/> include applicable taxes, shipping, environmental and other surcharges. offers not combinable any other offers or <br/> discounts. Certain products may be limited in availability. Dell is not responsible for typography, pricing or other error. Dell<br/> reserves right to cancel orders arising from any errors or limit quantities</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: white; font-family: Arial, Helvetica, sans-serif; text-align: justify; padding: 0px 37px;">
+              <p>Terms of Sale: All purchases are subject to Dell's standard terms of sale. Dell's limited hardware warranty terms and the<br/> applicable. Dell service agreement. Copies available on request or at Dell.ca. Additional shipping fees may apply if you are <br/> ordering Product to remote location within Canada</p>
+          </td>
+        </tr>
+       </table>
+      </table>
+    </table>
